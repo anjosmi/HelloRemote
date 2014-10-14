@@ -1,0 +1,40 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/micheleanjos/git/HelloRemote/src/main/scala/local/Local.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/micheleanjos/git/HelloRemote/src/main/scala/local/Local.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/micheleanjos/git/HelloRemote/src/main/scala/local/Local.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/micheleanjos/git/HelloRemote/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.1[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.1  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_2a9cb136[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar:/Users/micheleanjos/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/micheleanjos/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.5/xsbti/interface-0.13.5.jar:/Users/micheleanjos/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.5/compiler-interface-src/compiler-interface-src-0.13.5.jar:/Users/micheleanjos/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.1.jar:/Users/micheleanjos/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.1.jar:/Users/micheleanjos/.ivy2/cache/org.scala-lang/jline/jars/jline-2.10.1.jar:/Users/micheleanjos/.ivy2/cache/org.fusesource.jansi/jansi/jars/jansi-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/xd/3xj_sf8s5r9f96hxswt0j6xc0000gn/T/sbt_28fb1a8/xsbt/ScaladocInterface.scala[0m
